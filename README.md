@@ -1,2 +1,2 @@
 # Thesis-Project
- Data and R code for Master Thesis: Forecasting accuracy of COVID-19 in US based on  different scenarios and predictors: A meta-analysis
+ Data and R code for Master Thesis: Comparative accuracy for forecasting COVID-19 in US: Meta-analysis and Hierarchical Bayesian
